@@ -1,6 +1,8 @@
 ﻿Feature: SubmitMeterReading
 
-A short summary of the feature
+As a Customer of good energy
+I want to be able to submit my meter reading online.
+
 
 @tag1
 Scenario: Valid Submission of Meter Reading

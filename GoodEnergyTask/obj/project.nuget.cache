@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D3vLXaY/xPpxjoct8mxc+W7132Y8ebiect5rG34dEXE8/2DNS3N3EZiBBriYyseC8/DLle0ZKGTZpmWFfKL19g==",
+  "dgSpecHash": "4CGpwKYRmfIRsAoURQxhsAFk+BTeRRLmk0/olNnZ0/mu4ezHbdb+fmMltH6n2d3WPQ0ndYK/1zdgbZH6ogxD3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balea\\source\\repos\\GoodEnergyTask\\GoodEnergyTask\\GoodEnergyTask.csproj",
+  "projectFilePath": "C:\\Users\\balea\\source\\repos\\Repo\\GoodEnergyAssessment\\GoodEnergyTask\\GoodEnergyTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balea\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\balea\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

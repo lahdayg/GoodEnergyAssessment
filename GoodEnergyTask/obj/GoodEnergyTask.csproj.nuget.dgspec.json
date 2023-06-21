@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balea\\source\\repos\\GoodEnergyTask\\GoodEnergyTask\\GoodEnergyTask.csproj": {}
+    "C:\\Users\\balea\\source\\repos\\Repo\\GoodEnergyAssessment\\GoodEnergyTask\\GoodEnergyTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balea\\source\\repos\\GoodEnergyTask\\GoodEnergyTask\\GoodEnergyTask.csproj": {
+    "C:\\Users\\balea\\source\\repos\\Repo\\GoodEnergyAssessment\\GoodEnergyTask\\GoodEnergyTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balea\\source\\repos\\GoodEnergyTask\\GoodEnergyTask\\GoodEnergyTask.csproj",
+        "projectUniqueName": "C:\\Users\\balea\\source\\repos\\Repo\\GoodEnergyAssessment\\GoodEnergyTask\\GoodEnergyTask.csproj",
         "projectName": "GoodEnergyTask",
-        "projectPath": "C:\\Users\\balea\\source\\repos\\GoodEnergyTask\\GoodEnergyTask\\GoodEnergyTask.csproj",
+        "projectPath": "C:\\Users\\balea\\source\\repos\\Repo\\GoodEnergyAssessment\\GoodEnergyTask\\GoodEnergyTask.csproj",
         "packagesPath": "C:\\Users\\balea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balea\\source\\repos\\GoodEnergyTask\\GoodEnergyTask\\obj\\",
+        "outputPath": "C:\\Users\\balea\\source\\repos\\Repo\\GoodEnergyAssessment\\GoodEnergyTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\balea\\AppData\\Roaming\\NuGet\\NuGet.Config",
